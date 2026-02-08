@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import kernelCosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-cosf@deno/mod.js';
+import kernelCosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-cosf@v0.1.1-deno/mod.js';
 ```
 
 #### kernelCosf( x )
@@ -77,7 +77,7 @@ v = kernelCosf( NaN );
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@deno/mod.js';
-import kernelCosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-cosf@deno/mod.js';
+import kernelCosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-cosf@v0.1.1-deno/mod.js';
 
 var x = linspace( -PI/4.0, PI/4.0, 100 );
 
